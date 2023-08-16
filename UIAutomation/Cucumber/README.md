@@ -1,4 +1,4 @@
-# Insider UI Test Otomasyon Projesi
+# Insider UI Test Otomasyon Projesi (Java/Cucumber)
 
 Bu projede Insider tarafından verilen case oluşturulmuş olup senaryoların POM kullanılarak koşulması sağlanmıştır. 
 
