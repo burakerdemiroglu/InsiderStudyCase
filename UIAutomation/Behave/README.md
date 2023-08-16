@@ -37,13 +37,13 @@ Feature: Insider UI Test
     Then Anasayfaya geri dönülür."
 ```
 
-https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/00b14d18-0592-43bd-a0fd-58dcf4bdeee6
+https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/3cf808e6-fa88-44e6-ab36-955b7f2b689d
   
 ## ![allure](https://user-images.githubusercontent.com/35347777/187071905-8bad55fd-b3e4-4154-8af9-b10d313c5dd5.png) Allure 
 
 <details>
   <summary> (<i>Raporu görüntülemek için tıklayın</i>)</summary>
-
-![Allure](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/09a4dc75-bcbb-4799-9f6c-4ad7459381f4)
+ 
+![Allure](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/7d8dea0d-d9db-4b6c-9e89-c3d44d8ae86a)
 
 </details>
