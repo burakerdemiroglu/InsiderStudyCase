@@ -45,7 +45,7 @@ Feature: Insider UI Test
     Then Anasayfaya geri dönülür.
 ```
 
-[https://burakerdemiroglu.com.tr/Insider/Videos/CucumberUsage.mp4](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/c4219cb9-0ac0-4450-aa21-4a01ba229b69)
+https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/c4219cb9-0ac0-4450-aa21-4a01ba229b69
 
 ## ![log4j](https://user-images.githubusercontent.com/35347777/187072045-4d157e04-a467-47cd-8b07-875b9b2b7887.png) Log4j 
  
