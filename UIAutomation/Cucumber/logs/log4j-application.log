@@ -1,0 +1,16 @@
+2023-08-16 11:28:42 INFO  Log4j:8 - Test is Starting...
+2023-08-16 11:28:53 INFO  Log4j:17 - 'https://www.lcwaikiki.com/tr-TR/TR' linkine gidildi.
+2023-08-16 11:28:55 INFO  Log4j:17 - Tüm çerezlere izin ver butonuna tıklandı.
+2023-08-16 11:28:56 INFO  Log4j:17 - Ana sayfadaki slayt gösterimi başarılı bir şekilde görüntülendi. Sonuç: Ana sayfa açıldı.
+2023-08-16 11:28:56 INFO  Log4j:17 - Header bölümündeki menülerden 'DİĞER MARKALAR' fareyle üzerine gelindi.
+2023-08-16 11:29:03 INFO  Log4j:17 - Header bölümündeki kategorilerden 'EV & YAŞAM' tıklandı.
+2023-08-16 11:29:03 INFO  Log4j:17 - Kategori sayfası açıldı.
+2023-08-16 11:29:08 INFO  Log4j:17 - Herhangi bir ürünün detay sayfasına gidildi. Başlık: 'Positive Vibes Kırlent Somon'
+2023-08-16 11:29:08 INFO  Log4j:17 - Doğru ürüne giriş yapıldı.
+2023-08-16 11:29:09 INFO  Log4j:17 - Rastgele beden seçildi.
+2023-08-16 11:29:09 INFO  Log4j:17 - Sepete ekle butonuna tıklandı.
+2023-08-16 11:29:11 INFO  Log4j:17 - Sepete başarıyla eklendi.
+2023-08-16 11:29:14 INFO  Log4j:17 - Sepete başarıyla gidildi.
+2023-08-16 11:29:17 INFO  Log4j:17 - Header bölümündeki logoya tıklanarak ana sayfaya gidildi.
+2023-08-16 11:29:19 INFO  Log4j:17 - Ana sayfadaki slayt gösterimi başarılı bir şekilde görüntülendi. Sonuç: Ana sayfa açıldı.
+2023-08-16 11:29:20 INFO  Log4j:12 - Test is Ending...
