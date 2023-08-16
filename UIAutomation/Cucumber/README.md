@@ -45,14 +45,14 @@ Feature: Insider UI Test
     Then Anasayfaya geri dönülür.
 ```
 
-https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/c4219cb9-0ac0-4450-aa21-4a01ba229b69
+https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/0f813695-6de6-4e4f-a444-9e41b73e4c50
 
 ## ![log4j](https://user-images.githubusercontent.com/35347777/187072045-4d157e04-a467-47cd-8b07-875b9b2b7887.png) Log4j 
  
 <details>
   <summary> (<i>Raporu görüntülemek için tıklayın</i>)</summary>
 
-![log4j](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/1db57d0f-fffe-4240-8fb0-8d975f80c6d8)
+![log4j](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/a1967001-fd90-48a8-bf6a-1217cb07c3cb)
 
 </details>
   
@@ -63,6 +63,6 @@ https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/c4219cb9-0a
 <details>
   <summary> (<i>Raporu görüntülemek için tıklayın</i>)</summary>
 
-![Allure](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/87bfb3ab-5f4a-4ea5-8e86-a14ecaff3579)
+![CucumberAllure](https://github.com/burakerdemiroglu/InsiderStudyCase/assets/35409987/61e7a662-a330-4516-b5c4-d31ec534f36d)
 
 </details>
